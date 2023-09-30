@@ -1,9 +1,9 @@
-### Boas bindas ao meu perfil 💙
+### Boas vindas ao meu perfil 💙
 
 
 Meu nome é Rafael Binsfeld
 - Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo nas linguagens JavaScript. python e C++
+- Estou me desenvolvendo nas linguagens JavaScript. python, C++, html e css!
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você entrar em contato comigo 📫
